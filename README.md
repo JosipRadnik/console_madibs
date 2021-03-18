@@ -1,0 +1,1 @@
+A simple madibs game used for string manipulating practice.
